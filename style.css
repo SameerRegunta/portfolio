@@ -1,0 +1,87 @@
+*{
+    background-color: black;
+    color: whitesmoke;
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.icon{
+    height: 300px;
+    width: 250px;
+    float: left;
+    margin: 0 250px;
+}
+#first{
+    color: #3B2F2F;
+    text-align: left;
+    margin-top: 120px;
+    font-size: large;
+    padding: 10px;
+}
+#first h1{
+    margin: 20px;
+}
+#first p{
+    margin: 50px;
+}
+
+#second{
+    font-size: large;
+    margin: 100px 300px;
+}
+#second h2{
+    margin: 50px;
+}
+.unorder li{
+    margin-top: 30px;
+}
+#second img{
+    float: right;
+    margin: 60px;
+}
+#second .unorder{
+    margin: 0 50px;
+    font-weight: large;
+}
+
+#third{
+    font-size: large;
+    margin: 100px 300px;
+}
+#third h2{
+    margin: 50px;
+}
+.pro{
+    margin-top: 40px;
+}
+
+#four{
+    font-size: large;
+    margin: 100px 300px;
+}
+#four h2{
+    margin: 50px 50px;
+}
+#four ul{
+    margin: 50px;
+}
+
+#contact{
+    font-size: large;
+    margin: 100px 300px;
+}
+#span{
+    margin-top: 100px;
+}
+#contact p{
+    margin: 40px;
+}
+#cont{
+    float: left;
+    margin: 10px 80px 10px 50px;
+}
+.insta{
+    height: 30px;
+    width: 35px;
+    margin: 7px;
+}
